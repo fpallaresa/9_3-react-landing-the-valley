@@ -1,0 +1,19 @@
+.link {
+    color:#c3167c;
+    font-size:16px;
+    font-weight:700;
+}
+
+.link-button {
+    background-color: #c3167c;
+    color: white;
+    border:0;
+    padding:10px 25px;
+    border-radius:4px;
+    font-size:20px;
+    font-weight:700;
+}
+
+.link-button:hover {
+    opacity:0.5;
+}
